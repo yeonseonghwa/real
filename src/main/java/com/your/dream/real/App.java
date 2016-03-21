@@ -4,8 +4,10 @@ package com.your.dream.real;
  * Hello world!
  *
  */
-public class App {
-	private App() {
+public class App 
+{
+	private App() 
+	{
 		// do not create App class directly
 	}
 	
